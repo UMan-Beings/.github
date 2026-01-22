@@ -2,8 +2,8 @@
 | Field       | Value                  |
 |-------------|------------------------|
 | Institution | University of Manitoba |
-| Course Name | Software Engineering 2 |
-| Course Code | COMP 4350              |
+| Name        | Software Engineering 2 |
+| Code        | COMP 4350              |
 | Section     | A01                    |
 | Instructor  | Shaowei Wang           |
 | Term        | Winter 2026            |
@@ -11,14 +11,14 @@
 # Team
 | Field         | Value               |
 |---------------|---------------------|
-| Team Name     | UMan Beings         |
-| Team Member 1 | Richard Marinas Jr. |
-| Team Member 2 | Jason Bilinsky      |
-| Team Member 3 | Kunhao Zhang        |
-| Team Member 4 | Lucas McFarlane     |
+| Name          | UMan Beings         |
+| Member 1      | Richard Marinas Jr. |
+| Member 2      | Jason Bilinsky      |
+| Member 3      | Kunhao Zhang        |
+| Member 4      | Lucas McFarlane     |
 
 # Project
 | Field        | Value                                          |
 |--------------|------------------------------------------------|
-| Project Name | UManitobaGuessr (UMG!)                         |
+| Name         | UManitobaGuessr (UMG!)                         |
 | Repository   | https://github.com/UMan-Beings/UManitobaGuessr |
