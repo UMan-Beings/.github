@@ -1,4 +1,4 @@
-# Course Information
+# Course
 | Field       | Value                  |
 |-------------|------------------------|
 | Institution | University of Manitoba |
@@ -8,7 +8,7 @@
 | Instructor  | Shaowei Wang           |
 | Term        | Winter 2026            |
 
-# Team Information
+# Team
 | Field         | Value               |
 |---------------|---------------------|
 | Team Name     | UMan Beings         |
@@ -17,7 +17,7 @@
 | Team Member 3 | Kunhao Zhang        |
 | Team Member 4 | Lucas McFarlane     |
 
-# Project Information
+# Project
 | Field        | Value                                          |
 |--------------|------------------------------------------------|
 | Project Name | UManitobaGuessr (UMG!)                         |
