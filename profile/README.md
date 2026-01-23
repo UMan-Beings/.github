@@ -22,3 +22,4 @@
 |--------------|------------------------------------------------|
 | Name         | UManitobaGuessr (UMG!)                         |
 | Repository   | https://github.com/UMan-Beings/UManitobaGuessr |
+| Tracker      | https://github.com/orgs/UMan-Beings/projects/1 |
