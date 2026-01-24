@@ -18,8 +18,9 @@
 | Member 4      | Lucas McFarlane     |
 
 # Project
-| Field        | Value                                          |
-|--------------|------------------------------------------------|
-| Name         | UManitobaGuessr (UMG!)                         |
-| Repository   | https://github.com/UMan-Beings/UManitobaGuessr |
-| Tracker      | https://github.com/orgs/UMan-Beings/projects/1 |
+| Field        | Value                                               |
+|--------------|-----------------------------------------------------|
+| Name         | UManitobaGuessr (UMG!)                              |
+| Repository   | https://github.com/UMan-Beings/UManitobaGuessr      |
+| Tracker      | https://github.com/orgs/UMan-Beings/projects/1      |
+| Wiki         | https://github.com/UMan-Beings/UManitobaGuessr/wiki |
